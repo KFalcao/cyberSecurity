@@ -1,10 +1,9 @@
-# CyberSecurity
+# 💻👩🏻‍💻CyberSecurity🔐🔑
 
 Bem-vindo(a)! Este repositório serve como um espaço para armazenar meus aprendizados, anotações e exercícios enquanto estudo cibersegurança.  
 
 ## 📌 Sobre  
-Atualmente, estou começando meus estudos na área e utilizarei este repositório para organizar materiais e registrar meu progresso.  
-Não é um guia ou referência oficial, apenas um repositório pessoal de aprendizado.  
+Utilizarei este repositório para organizar materiais de estudo, registrar meu progresso e anotações para certificações.
 
 ## 📚 Conteúdos  
 Aqui estão alguns dos tópicos que pretendo explorar e estudar ao longo do tempo:  
