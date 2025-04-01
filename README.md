@@ -1,7 +1,5 @@
 # CyberSecurity
 
-Bem-vindo(a)! Este repositório serve como um espaço para armazenar meus aprendizados, anotações e exercícios enquanto estudo cibersegurança.
-
 Bem-vindo(a)! Este repositório serve como um espaço para armazenar meus aprendizados, anotações e exercícios enquanto estudo cibersegurança.  
 
 ## 📌 Sobre  
